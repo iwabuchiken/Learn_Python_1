@@ -1,0 +1,6 @@
+*.tds
+*.exe
+./.git/*.tds
+./.git/*.exe
+./General/*.tds
+./General/*.exe
