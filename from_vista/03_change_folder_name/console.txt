@@ -1,0 +1,2 @@
+pushd C:\workspaces\ws_python_1\03_change_folder_name
+dir
