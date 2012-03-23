@@ -1,2 +1,8 @@
 wxPython/wxPython2.8_Docs_and_Demos
 wxPython/wxPython2.8_Docs_and_Demos/*
+*.jpeg
+*.jpg
+*.bmp
+*.JBG
+*.JPEG
+*.BMP
