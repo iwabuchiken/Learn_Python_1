@@ -84,10 +84,7 @@ class MyFrame1(wx.Frame):
             self.frame_2_statusbar.SetStatusText(frame_2_statusbar_fields[i], i)
         # end wxGlade
 
-        """ debug: SetSize() 
-            1. Needs to uneffectuate "wx.BoxSizer().Fit(self)"
-                => comment out (see method __do_layout())"
-        """
+        """ debug: SetSize() """
         self.SetSize(wx.Size(400, 200))
 
     def __do_layout(self):

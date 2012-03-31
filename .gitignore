@@ -6,3 +6,10 @@ wxPython/wxPython2.8_Docs_and_Demos/*
 *.JBG
 *.JPEG
 *.BMP
+*.pyc
+*.pyd
+*.tds
+*.i
+*.exe
+*.obj
+*.o
